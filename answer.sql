@@ -1,4 +1,3 @@
--- library_db.sql
 -- Simple Library Management System Schema
 
 
